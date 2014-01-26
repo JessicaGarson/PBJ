@@ -18,5 +18,5 @@ if bread == 0 and peanut_butter >= 1 and jelly >= 1:
 if bread >= 1 and peanut_butter == 0 and jelly >= 1: 
 	print "Looks like you are missing peanut butter"
 
-if bread >= 1 and peanut_butter >= 0 and jelly == 0:
+if bread >= 1 and peanut_butter >= 1 and jelly == 0:
 	print "Looks like you are missing jelly"
