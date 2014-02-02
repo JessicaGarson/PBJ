@@ -22,5 +22,5 @@ if bread >= num_sandwiches and peanut_butter >= num_sandwiches and jelly == 0:
 	print "Looks like you are missing jelly, you can still make peanut butter sandwiches"
 
 elif bread > num_sandwiches and peanut_butter > num_sandwiches:
-	print "You can make %s peanut butter only sandwiches and %s peanut butter only sandwiches" % (
+	print "You can make %s peanut butter only sandwiches and %s peanut butter jelly sandwiches" % (
  		num_pbsandwiches, num_sandwiches)
