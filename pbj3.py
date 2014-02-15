@@ -22,4 +22,3 @@ print "So you have %s slices of bread, %s scoops of peanut butter and %s scoops 
 
 bread_for_num_of_sandwiches = bread / 2 
 check(bread)
-
